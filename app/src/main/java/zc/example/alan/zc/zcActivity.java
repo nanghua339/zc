@@ -22,6 +22,7 @@ public class zcActivity extends AppCompatActivity {
         int b =1;
         int c =1;
         int zx = 339;
+        int add =6;
     }
 
 }
