@@ -21,7 +21,8 @@ public class zcActivity extends AppCompatActivity {
     public void feature_3(){
         int b =1;
         int c =1;
-        int zx = 40;
+        int zx = 339;
+        int add =6;
     }
 
 }
